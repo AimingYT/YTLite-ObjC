@@ -1,0 +1,14 @@
+# Build outputs
+*.dylib
+*.o
+*.dSYM/
+build/
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
